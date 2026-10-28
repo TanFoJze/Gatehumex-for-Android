@@ -1,2 +1,2 @@
 # Gatehumex-for-Android
-Gatehumex-for-Android.🐦为安卓开源服务
+Gatehumex-for-Android.🐦为 Android 开源服务
